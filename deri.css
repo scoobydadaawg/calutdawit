@@ -1,0 +1,115 @@
+.title {
+  color: #fff9ca;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  font-size: 75px;
+  border-radius: 1000000px;
+  background-image: linear-gradient(to top right, #3330e4, #faea48);
+  box-shadow: 0 0 20cap;
+}
+
+.text {
+  color: #fff9ca;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 15px;
+  text-align: center;
+  margin-block: 9cap;
+}
+
+.legend {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #fff9ca;
+  border-radius: 1000000px;
+  background-image: linear-gradient(to top right, #3330e4, #faea48);
+}
+
+.text2 {
+  color: #fff9ca;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 15px;
+  text-align: center;
+}
+
+.text3 {
+  color: #070707;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 15px;
+  text-align: center;
+}
+
+.navbar {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  margin-block: 4rem;
+  margin-inline-start: -1rem;
+}
+
+.home {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: left;
+  font-size: 15px;
+  color: #fff9ca;
+  text-decoration: none;
+  margin-right: 6rem;
+}
+
+.home:hover {
+  border-style: solid;
+  border-radius: 20px;
+
+  transition: 0.3s ease-in-out;
+  transition-delay: 140ms;
+  box-shadow: 0 0 20cap;
+}
+
+.contact {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: left;
+  font-size: 15px;
+  color: #fff9ca;
+  text-decoration: none;
+  margin-right: 6rem;
+}
+
+.contact:hover {
+  border-style: solid;
+  border-radius: 20px;
+
+  transition: 0.3s ease-in-out;
+  transition-delay: 140ms;
+  box-shadow: 0 0 20cap;
+}
+.about {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: left;
+  font-size: 15px;
+  color: #fff9ca;
+  text-decoration: none;
+}
+
+.about:hover {
+  border-style: solid;
+  border-radius: 20px;
+
+  transition: 0.3s ease-in-out;
+  transition-delay: 140ms;
+  box-shadow: 0 0 20cap;
+}
